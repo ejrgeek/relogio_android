@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Clock</string>
+    <string name="nivel_da_baterial">Battery Level</string>
+    <string name="segundos">Seconds</string>
+    <string name="mostrar_data">Show Date</string>
+
+</resources>

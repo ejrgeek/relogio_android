@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Relógio</string>
+    <string name="nivel_da_baterial">Nivel da baterial</string>
+    <string name="nivel_bateria">nivel bateria</string>
+    <string name="segundos">Segundos</string>
+    <string name="mostrar_data">Mostrar data</string>
+
+</resources>
